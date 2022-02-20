@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Thanks for visiting the page
+#Thanks for visiting the page
 
 You can use the [editor on GitHub](https://github.com/ankitsobti/ankitsobti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
